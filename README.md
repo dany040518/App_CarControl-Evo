@@ -137,4 +137,5 @@ Proyecto académico para control remoto IoT – Universidad de La Sabana.
 ## Autores
 
 **Danna Sánchez / Ingeniería Informática**
+
 **Juan Pablo Vargas / Ingeniería Informática**
